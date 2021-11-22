@@ -1,5 +1,5 @@
-# Topic-Modelling-with-spaCy-Gensim-and-scikit-learn
-This project uses spaCy, Gensim and scikit-learn for topic modelling on the NeurIPS (NIPS) Papers dataset.
+# Topic-Modeling-with-spaCy-Gensim-and-scikit-learn
+This project uses spaCy, Gensim and scikit-learn for topic modeling on the NeurIPS (NIPS) Papers dataset.
 
 In this project, I make a NLP pipeline consisting of spaCy, Gensim and scikit-learn. I use spaCy for text preprocessing, and Latent Dirichlet Allocation (LDA) topic model algorithm of both Gensim and scikit-learn. Additionally, to gain insight about the results, I use pyLDAvis for topic model visualization.
 I decided to use random 1000 sample of NeuroIPS papers from year-year in this project.
